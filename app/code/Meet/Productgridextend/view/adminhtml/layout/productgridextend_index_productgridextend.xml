@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+
+<layout xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/layout_generic.xsd">
+    <container name="root" label="Root">
+        <block class="Meet\Productgridextend\Block\Adminhtml\Catalog\Product\Edit\Tab\Productgridextend" template="catalog/product/edit/tab/productgridextend.phtml" name="product_productgridextend">
+        </block> 
+    </container>
+</layout>
